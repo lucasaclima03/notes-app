@@ -15,12 +15,6 @@ Users should be able to:
 - Update notes
 - Delete notes
 
-
-### Screenshot
-
-![](./screenshot.jpg)
-
-
 ### Built with
 
 - HTML 5
